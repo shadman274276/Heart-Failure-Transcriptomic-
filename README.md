@@ -116,7 +116,7 @@ Archives (`PROCESSED_DATA.zip`, `HEART_ALL_RESULTS.zip`)
 
 - Notebook: hosted in this GitHub repository.
 - Supplementary files (processed data, result tables and figures, i.e. the contents of `PROCESSED_DATA.zip` and `HEART_ALL_RESULTS.zip`): hosted on Figshare.
-  Figshare link: *add link here*
+  Figshare link: *https://doi.org/10.6084/m9.figshare.35037400*
 
 9. Author and contact
 
